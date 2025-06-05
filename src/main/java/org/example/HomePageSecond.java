@@ -52,4 +52,6 @@ public class HomePageSecond {
             logger.error("The element was not found or is not in the active slide.", e);
         }
     }
+
+    //TODO: work in progress; add close
 }
